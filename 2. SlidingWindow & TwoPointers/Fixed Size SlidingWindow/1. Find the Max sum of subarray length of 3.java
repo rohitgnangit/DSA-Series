@@ -1,4 +1,4 @@
-// Normal Sum
+// Q: : Find the Max sum of subarray length of 3
 
 class Main {
     public static void main(String[] args) {
