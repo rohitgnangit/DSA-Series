@@ -33,3 +33,20 @@
 11. Minimum Window Substring (Leetcode-76-Hard)
 12. Contains Duplicate II (Leetcode-219-Easy)
 13. Minimum Recolors to Get K Consecutive Black Blocks (Leetcode-2379-Easy)
+
+## Binary Search
+1. Binary Search (Leetcode-704-Easy)
+2.  Given an array of character sorted array in ascending order, find the greatest character that is less than the target character in the  array, if there is no such a element(target) in array then return 'a'.
+3. Search Insert Position (Leetcode-35-Easy)
+4. Find First and Last Position of Element in Sorted Array (Leetcode-34-Medium)
+5. Search in Rotated Sorted Array (Leetcode-33-Medium)
+6. Search in Rotated Sorted Array II (Leetcode-81-Medium)
+7. Find Minimum in Rotated Sorted Array (Leetcode-153-Medium)
+8. Single Element in a Sorted Array (Leetcode-540-Medium)
+9. Koko Eating Bananas (Leetcode-875-Medium)
+10. Minimum Number of Days to Make m Bouquets (Leetcode-1482-Medium)
+11. Find the Smallest Divisor Given a Threshold (Leetcode-1283-Medium)
+12. Capacity To Ship Packages Within D Days (Leetcode-1011-Medium)
+13. Kth Missing Positive Number (Leetcode-1539-Easy)
+14. Split Array Largest Sum (Leetcode-410-Hard)
+15. Median of Two Sorted Arrays (Leetcode-4-Hard)
