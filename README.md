@@ -50,3 +50,22 @@
 13. Kth Missing Positive Number (Leetcode-1539-Easy)
 14. Split Array Largest Sum (Leetcode-410-Hard)
 15. Median of Two Sorted Arrays (Leetcode-4-Hard)
+
+## Stacks
+- ### Stack :
+1. Implement Stack using Array
+2. Implement Stack using Queues (Leetcode-225-Easy)
+3. Valid Parentheses (Leetcode-20-Easy)
+4. Min Stack (Leetcode-155-Medium)
+5. Asteroid Collision (Leetcode-735-Medium)
+
+- ### Queue :
+1. Implement Queue using Array
+2. Implement Queue using Stacks (Leetcode-232-Easy)
+
+- ### Monotonic Stack :
+1. Next Greater Element I (Leetcode-496-Easy)
+2. Next Greater Element II (Leetcode-503-Medium)
+3. Sum of Subarray Minimums (Leetcode-907-Medium)
+4. Remove K Digits (Leetcode-402-Medium)
+5. Largest Rectangle in Histogram (Leetcode-84-Hard)
