@@ -69,3 +69,4 @@
 3. Sum of Subarray Minimums (Leetcode-907-Medium)
 4. Remove K Digits (Leetcode-402-Medium)
 5. Largest Rectangle in Histogram (Leetcode-84-Hard)
+6. Maximal Rectangle (Leetcode-85-Hard)
