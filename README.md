@@ -75,3 +75,5 @@
 1. Take Gifts From the Richest Pile (Leetcode-2558-Easy)
 2. Sort Characters By Frequency (Leetcode-451-Medium)
 3. Construct String With Repeat Limit (Leetcode-2182-Medium)
+4. Task Scheduler (Leetcode-621-Medium)
+5. Hand of Straights (Leetcode-846-Medium)
