@@ -77,3 +77,7 @@
 3. Construct String With Repeat Limit (Leetcode-2182-Medium)
 4. Task Scheduler (Leetcode-621-Medium)
 5. Hand of Straights (Leetcode-846-Medium)
+
+## Recursion :
+1. Parameterized Recursion
+2. Functional Recursion
