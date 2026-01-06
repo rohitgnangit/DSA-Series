@@ -1,4 +1,4 @@
-// Q: Find the 'n'th Fibonacci number
+// Q: Find the 'n th' Fibonacci number
 
 class Main {
     public static int fibonacci(int n) {
