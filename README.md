@@ -79,5 +79,13 @@
 5. Hand of Straights (Leetcode-846-Medium)
 
 ## Recursion :
-1. Parameterized Recursion
-2. Functional Recursion
+- ### Parameterized Recursion
+1. Summtion of 'n' numbers using Parameterized Recursion
+2. Reverse the array using Parameterized Recursion
+
+- ### Functional Recursion
+1. Summtion of 'n' numbers using Functional Recursion
+2. Check if the given string is palindrome or not using Functional Recursion.
+
+- ### Multiple Recursion Calls
+1. Find the 'n'th Fibonacci number
