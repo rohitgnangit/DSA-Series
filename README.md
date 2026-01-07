@@ -78,16 +78,26 @@
 4. Task Scheduler (Leetcode-621-Medium)
 5. Hand of Straights (Leetcode-846-Medium)
 
-## Recursion :
+## Recursion
 1. Print all subsequences of the array
+2. Print subsequences which sum is equal to 'K'
+3. Print only one subsequence which sum is equal to 'K'
+4. Print no.of subsequences which sum is equal to 'K'
 
-- ### Parameterized Recursion
+- ### Parameterized Recursion :
 1. Summtion of 'n' numbers using Parameterized Recursion
 2. Reverse the array using Parameterized Recursion
 
-- ### Functional Recursion
+- ### Functional Recursion :
 1. Summtion of 'n' numbers using Functional Recursion
 2. Check if the given string is palindrome or not using Functional Recursion.
 
-- ### Multiple Recursion Calls
+- ### Multiple Recursion Calls :
 1. Find the 'n th' Fibonacci number
+
+## Sorting
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Merge Sort
+5. Quick Sort
