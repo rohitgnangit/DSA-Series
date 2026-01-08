@@ -83,6 +83,10 @@
 2. Print subsequences which sum is equal to 'K'
 3. Print only one subsequence which sum is equal to 'K'
 4. Print no.of subsequences which sum is equal to 'K'
+5. Pow(x, n) (Leetcode-50-Medium)
+6. Generate Parentheses (Leetcode-22-Medium)
+7. Combination Sum (Leetcode-39-Medium)
+8. Combination Sum II (Leetcode-40-Medium)
 
 - ### Parameterized Recursion :
 1. Summtion of 'n' numbers using Parameterized Recursion
