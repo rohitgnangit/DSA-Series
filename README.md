@@ -90,6 +90,8 @@
 9. Subsets II (Leetcode-90-Medium)
 10. Combination Sum III (Leetcode-216-Medium)
 11. Letter Combinations of a Phone Number (Leetcode-17-Medium)
+12. Palindrome Partitioning (Leetcode-131-Medium)
+13. Permutations (Leetcode-46-Medium)
 
 - ### Parameterized Recursion :
 1. Summtion of 'n' numbers using Parameterized Recursion
