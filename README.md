@@ -92,7 +92,9 @@
 11. Letter Combinations of a Phone Number (Leetcode-17-Medium)
 12. Palindrome Partitioning (Leetcode-131-Medium)
 13. Permutations (Leetcode-46-Medium)
-
+14. Permutations II (Leetcode-47-Medium)
+15. Combinations (Leetcode-77-Medium)
+16. Non-decreasing Subsequences (Leetcode-491-Medium)
 - ### Parameterized Recursion :
 1. Summtion of 'n' numbers using Parameterized Recursion
 2. Reverse the array using Parameterized Recursion
