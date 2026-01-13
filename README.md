@@ -106,6 +106,13 @@
 - ### Multiple Recursion Calls :
 1. Find the 'n th' Fibonacci number
 
+- ### Understanding
+1. Largest element in Array using Recursion
+2. Check the array is sorted or not using Recursion
+3. Linear Search using Recursion
+4. Binary Search using Recursion
+5. Remove all occurrences of a character from a string
+
 ## Sorting
 1. Bubble Sort
 2. Selection Sort
