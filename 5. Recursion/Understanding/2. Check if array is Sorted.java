@@ -1,4 +1,4 @@
-// Q: Check the array is sorted or not
+// Q: Check the array is sorted or not using Recursion
 
 class Main {
     public static boolean isSorted(int[] nums, int i) {

@@ -119,3 +119,6 @@
 3. Insertion Sort
 4. Merge Sort
 5. Quick Sort
+
+## Linked List
+1. LinkedList Operations
