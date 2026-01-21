@@ -1,5 +1,17 @@
 // Total LinkedList Operations
 
+// OUTPUT :
+// A->B->C->D->E (Print LinkedList)
+// 5            (Length of Linked List)
+// 3            (Search Key in LL)
+// A->B->C->DD->E   (Update value in LL)
+// A->B->C->DD->E->f    (Add new node at End)
+// a->A->B->C->DD->E->f     (Add new node at Begining)
+// a->A->B->c->C->DD->E->f      (Add new node at Middle)
+// A->B->c->C->DD->E->f     (Delete node at Begining)
+// A->B->c->C->DD->E    (Delete node at End)
+// A->B->C->DD->E   (Delete node at Middle)
+
 class Node {
     String data;
     Node next;
@@ -83,6 +95,43 @@ class Main {
         temp.next = newNode;
         newNode.next = after;
     }
+    
+    // Delete node at Begining
+    public static void deleteAtBegining() {
+        // EdgeCase-1: If no elements in LL
+        if(head == null) return;
+        // More than one element
+        head = head.next;
+    }
+    // Delete node at End
+    public static void deleteAtEnd() {
+        Node temp = head;
+        // EdgeCase-1: If no elements in LL
+        if(temp == null) return;
+        // EdgeCase-2: If only one element in LL
+        if(temp.next == null) head = null;
+        // More than one element in LL 
+        while(temp.next.next != null) {
+            temp = temp.next;
+        }
+        temp.next = null;
+    }
+    // Delete node at Middle
+    public static void deleteAtMiddle(int index) {
+        // EdgeCase-1: If index is 0
+        if(index == 0) {
+            deleteAtBegining();
+            return;
+        }
+        // EdgeCase-2: If head is null
+        if(index < 0 && head == null) return;
+        // More than one element in LL
+        Node temp = head;
+        for(int i = 0; i < index-1; i++) {
+            temp = temp.next;
+        }
+        temp.next = temp.next.next;
+    }
     public static void main(String[] args) {
         // Data for nodes
         Node node1 = new Node("A");
@@ -116,5 +165,15 @@ class Main {
         // Add node at Middle
         addAtMiddle("c", 3);
         printLL();
+        // Delete node at Begining
+        deleteAtBegining();
+        printLL();
+        // Delete node at End
+        deleteAtEnd();
+        printLL();
+        // Delete node at Middle
+        deleteAtMiddle(2);
+        printLL();
+        
     }
 }

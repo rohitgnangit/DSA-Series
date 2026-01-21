@@ -122,3 +122,5 @@
 
 ## Linked List
 1. LinkedList Operations
+2. Insert Greatest Common Divisors in Linked List (Leetcode-2807-Medium)
+3. Reverse Linked List (Leetcode-206-Easy)
