@@ -124,3 +124,8 @@
 1. LinkedList Operations
 2. Insert Greatest Common Divisors in Linked List (Leetcode-2807-Medium)
 3. Reverse Linked List (Leetcode-206-Easy)
+4. Delete Node in a Linked List (Leetcode-237-Medium)
+5. Middle of the Linked List (Leetcode-876-Easy)
+6. Linked List Cycle (Leetcode-141-Easy)
+7. Linked List Cycle II (Leetcode-142-Medium)
+8. Palindrome Linked List (Leetcode-234-Easy)
