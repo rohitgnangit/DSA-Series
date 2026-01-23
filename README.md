@@ -130,3 +130,6 @@
 7. Linked List Cycle II (Leetcode-142-Medium)
 8. Palindrome Linked List (Leetcode-234-Easy)
 9. Odd Even Linked List (Leetcode-328-Medium)
+10. Remove Nth Node From End of List (Leetcode-19-Medium)
+11. Delete the Middle Node of a Linked List (Leetcode-2095-Medium)
+12. Merge Nodes in Between Zeros (Leetcode-2181-Medium)
