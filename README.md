@@ -133,3 +133,6 @@
 10. Remove Nth Node From End of List (Leetcode-19-Medium)
 11. Delete the Middle Node of a Linked List (Leetcode-2095-Medium)
 12. Merge Nodes in Between Zeros (Leetcode-2181-Medium)
+13. Intersection of Two Linked Lists (Leetcode-160-Easy)
+14. Merge In Between Linked Lists (Leetcode-1669-Medium)
+15. Maximum Twin Sum of a Linked List (Leetcode-2130-Medium)
