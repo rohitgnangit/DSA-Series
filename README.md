@@ -138,3 +138,10 @@
 15. Maximum Twin Sum of a Linked List (Leetcode-2130-Medium)
 16. Add Two Numbers (Leetcode-2-Medium)
 17. Reverse Nodes in k-Group (Leetcode-25-Hard)
+
+## Dynamic Programming
+- ### Memoization (Top-Down Approach)
+1. Nth Fibonacci number
+
+- ### Tabulation (Bottom-Up Approach)
+1. Nth Fibonacci number
