@@ -142,6 +142,10 @@
 ## Dynamic Programming
 - ### Memoization (Top-Down Approach)
 1. Nth Fibonacci number
+2. Climbing stairs (Leetcode-70-Easy)
+3. Frog Jump
+4. House Robber (Leetcode-198-Medium)
 
 - ### Tabulation (Bottom-Up Approach)
 1. Nth Fibonacci number
+2. House Robber (Leetcode-198-Medium)
