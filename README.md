@@ -95,6 +95,7 @@
 14. Permutations II (Leetcode-47-Medium)
 15. Combinations (Leetcode-77-Medium)
 16. Non-decreasing Subsequences (Leetcode-491-Medium)
+17. N-Queens (Leetcode-51-Hard)
 - ### Parameterized Recursion :
 1. Summtion of 'n' numbers using Parameterized Recursion
 2. Reverse the array using Parameterized Recursion
